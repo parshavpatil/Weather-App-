@@ -17,5 +17,5 @@ Enter a **valid city name** to get the current weather details.
 
 ## 🛠️ Tech Stack
 - **React.js**
-- **Weather API** (e.g., OpenWeatherMap or similar)
+- **Weather API** (OpenWeatherMap)
 
